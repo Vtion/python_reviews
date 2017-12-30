@@ -7,7 +7,7 @@ weight=[50,58,80,70,69,55]
 plt.scatter(height,weight)
 
 plt.show()
-
+''' 
 N=1000
 x=np.random.randn(N)
 y1=np.random.randn(len(x))
@@ -57,3 +57,4 @@ today=change[1:]
 plt.scatter(yesterday,today,s=500,c='r',alpha=1)
 
 plt.show()
+'''
